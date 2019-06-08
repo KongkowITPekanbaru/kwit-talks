@@ -1,8 +1,8 @@
 ---
-name: Lightning Talks
-about: daftar untuk jadi peserta Lightning Talks
+name: Full Talks
+about: daftar untuk jadi peserta Full Talks
 title: ''
-labels: Lightning Talks
+labels: Full Talks
 assignees: ''
 
 ---
@@ -10,7 +10,7 @@ assignees: ''
 *   Nama Lengkap: 
 *   Pekerjaan:  
 *   Kontak yang bisa dihubungi (Email/Telegram): 
-*   Judul Lightning Talks: 
+*   Judul Talks: 
 *   Overview (140 characters): 
 *   Brief Outline: 
     1.  
