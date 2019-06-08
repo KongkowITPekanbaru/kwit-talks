@@ -21,3 +21,5 @@ Lightning talks merupakan kegiatan talks dalam waktu 5-10 menit.Topik yang dibaw
 ## Submit Your Talks?
 
 Untuk mendaftar sebagai Pembicara Kongkow IT Talks, kita akan menggunakan GitHub Issues. Kenapa GitHub Issues? Karena simpel dan praktis. Selain itu, dengan GitHub Issues kita juga bisa tahu topik mana yang saat ini sedang diminati oleh banyak orang. Sehingga orang-orang juga bisa bertanya langsung di Issue tersebut. Setelah membuat Issue, kami akan menginformasikan melalui kontak yang ditulis di dalam Issue untuk informasi berikutnya.
+
+[**daftar disini**](https://github.com/KongkowITPekanbaru/kwittalks/issues/new/choose)
