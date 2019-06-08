@@ -11,8 +11,8 @@ Talks yang pernah dilakukan
 
 ----
 ### Predi
-Pekerjaan : Tenaga Ahli
-Email / Telegram : @predisenior    
+Pekerjaan : Tenaga Ahli    
+Email / Telegram : @predisenior      
 Certification : MTCNA  
 
 Talks yang pernah dilakukan 
