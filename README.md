@@ -23,3 +23,38 @@ Lightning talks merupakan kegiatan talks dalam waktu 5-10 menit.Topik yang dibaw
 Untuk mendaftar sebagai Pembicara Kongkow IT Talks, kita akan menggunakan GitHub Issues. Kenapa GitHub Issues? Karena simpel dan praktis. Selain itu, dengan GitHub Issues kita juga bisa tahu topik mana yang saat ini sedang diminati oleh banyak orang. Sehingga orang-orang juga bisa bertanya langsung di Issue tersebut. Setelah membuat Issue, kami akan menginformasikan melalui kontak yang ditulis di dalam Issue untuk informasi berikutnya.
 
 [**daftar disini**](https://github.com/KongkowITPekanbaru/kwittalks/issues/new/choose)
+
+Pastikan supaya di Issue tertulis informasi berikut:
+
+*   Nama Lengkap: 
+*   Pekerjaan: 
+*   Kontak yang bisa dihubungi (Email / Telegram): 
+*   Judul Lightning Talks: 
+*   Overview (140 characters): 
+*   Brief Outline: 
+
+contohnya
+```
+* Nama Lengkap: Jufianto Henri
+* Pekerjaan:  Frelancer 
+* Kontak yang bisa dihubungi (Email/Telegram): @jufianto 
+* Judul Talks: Install Laravel on Linux
+* Overview (140 characters): menginstall simple laravel dengan composer dengan menggunakan linux dan xampp for linux
+* Brief Outline: 
+    1.  Introduction Laravel and Composer
+    2.  Install Base Packet php for Larvel
+    3.  install laravel
+    4. set dns for laravel project
+
+```
+
+## Diadakan dimana dan kapan? 
+tempatnya tergantung dari diskusi bersama pada grup [telegram](https://t.me/kongkowITpekanbaru). rencana awalnya akan diadakan di caffe to cafee dan sekali sebulan.
+
+## ingin kerjasama? 
+jika anda institusi kampus, pemilik cafee, kegiatan mahasiswa dikampus, atau seorang donatur dan ingin kami sharing talks di tempat anda, silahkan kontak penanggung jawab kegiatan [Jufianto Henri](https://t.me/jufiantohenri) atau share informasi di grup [telegram](https://t.me/kongkowITpekanbaru). 
+beberapa benefit yang bisa kami berikan
+   1. kami tidak meminta uang saku selama kegiatan berlansung, cukup berikan kami akomodasi makanan selama kegiatan.
+   2. informasi tentang kegiatan kerjasama akan disharing di instagram, website, dan di github.
+   
+  
