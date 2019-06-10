@@ -15,10 +15,6 @@ Pekerjaan : Tenaga Ahli
 Email / Telegram : @predisenior      
 Certification : MTCNA  
 
-Talks yang pernah dilakukan 
-* [Install Laravel On Linux](https://github.com/KongkowITPekanbaru/kwittalks/issues/1) (30 June 2019)
-
-
 ----
 ### Ery
 Pekerjaan : Software Engineer    
