@@ -16,10 +16,10 @@ Berikut beberapa hal yang akan di bahas pada event webdev kali ini:
 10. Jquery ajax
 11. Set environment for web developer
 
-##Kapan dan Dimana?
+## Kapan dan Dimana?
 Waktu dan tempat akan di diskusikan bersama di grup [telegram](https://t.me/kongkowITpekanbaru)
 
-##Ingin jadi pemateri?
+## Ingin jadi pemateri?
 Untuk mendaftar sebagai salah satu pemateri pada event WebDev kali ini, silahkan mendaftar pada GitHub Issues atau dengan meng klik link di bawah.
 [**daftar disini**](https://github.com/KongkowITPekanbaru/kwittalks/issues/new/choose)
 
