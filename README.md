@@ -51,10 +51,13 @@ contohnya
 ## Diadakan dimana dan kapan? 
 tempatnya tergantung dari diskusi bersama pada grup [telegram](https://t.me/kongkowITpekanbaru). rencana awalnya akan diadakan di caffe to cafee dan sekali sebulan.
 
-## ingin kerjasama? 
+## Ingin kerjasama? 
 jika anda institusi kampus, pemilik cafee, kegiatan mahasiswa dikampus, atau seorang donatur dan ingin kami sharing talks di tempat anda, silahkan kontak penanggung jawab kegiatan [Jufianto Henri](https://t.me/jufiantohenri) atau share informasi di grup [telegram](https://t.me/kongkowITpekanbaru). 
 beberapa benefit yang bisa kami berikan
    1. kami tidak meminta uang saku selama kegiatan berlansung, cukup berikan kami akomodasi makanan selama kegiatan.
    2. informasi tentang kegiatan kerjasama akan disharing di instagram, website, dan di github.
    
   
+### anda komunitas / organisasi yang ingin kerja sama? 
+Kita bisa kerja sama dengan anda mengisi talks yang anda request di github issues dan silahkan berikan informasi komunitas anda dan bagaimana ingin konsep kerja samanya. Kami siap terbuka bagaimanapun kerja samanya. 
+Atau anda juga bisa diskusi melalui grup telegram atau bisa PM penangung jawab Kongkow IT Talks ini 
