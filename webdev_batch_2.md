@@ -1,4 +1,4 @@
-#WebDev Batch 2
+# WebDev Batch 2  
 WebDev merupakan salah satu event sharing session tentang Web Developer yang diadakan di komunitas Kongkow IT Pekanbaru, Event kali ini merupakan batch kedua dari event WebDev sebelumnya yang dapat dilihat [disini](https://medium.com/kongkowitpekanbaru/kongkow-it-pekanbaru-menggelar-pelatihan-web-developer-b32841842e8e).
 
 ----
