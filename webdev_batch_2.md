@@ -5,16 +5,16 @@ WebDev merupakan salah satu event sharing session tentang Web Developer yang dia
 
 Pada event WebDev kali ini kita akan menggunakan metode sharing lightning talk, jadi akan ada lebih dari satu pemateri yang akan sharing mengenai beberapa hal yang akan kita bahas pada event WebDev kali ini.
 Berikut beberapa hal yang akan di bahas pada event webdev kali ini: 
-1. Teknologi web zaman kini (pengenalan PHP dan HTML) 
+1. Teknologi web zaman kini (pengenalan PHP dan HTML) - Jufianto Henri
 2. HTML + CSS dasar  
-3. PHP dasar (study case : send form)
+3. PHP dasar (study case : send form) - Wahyu Nuzul Wahri
 4. Merancang tema AdminBSB
 5. Simple login user (session)
 6. Create user module
 7. Query database
 8. Update & delete user module
 9. Rancang sistem informasi rumah sakit (ERD, Usecase)
-10. Jquery ajax
+10. Jquery ajax - Ahmad Reza
 11. Set environment for web developer
 
 ## Kapan dan Dimana?
