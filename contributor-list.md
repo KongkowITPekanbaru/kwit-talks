@@ -2,8 +2,7 @@
 
 ### Jufianto Henri 
 Pekerjaan : Mahasiswa  
-Email / Telegram : jufiantohendri@gmail.com  / @jufi    
-Linkedin : [Jufianto Henri](https://www.linkedin.com/in/jufianto/)
+Kontak : [Telegram](https://t.me/jufiantohenri) | [Email](mailto://jufiantohendri@gmail.com) | [Linkedin](https://www.linkedin.com/in/jufianto/) | [Blog](https://blog.jufianto.com) 
 
 Talks yang pernah dilakukan 
 * [Install Laravel On Linux](https://github.com/KongkowITPekanbaru/kwittalks/issues/1) (30 June 2019)
