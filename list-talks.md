@@ -15,7 +15,13 @@
   * Distro For Pentest Oleh [Jufianto Henri](https://www.linkedin.com/in/jufianto/)   
   * Malware Analysis Oleh [Edo Maland](https://www.linkedin.com/in/edomaland/)   
 
-
+## 2019
+* Ngoprek Vue.js bareng (21 Agustus 2019):
+  * Pengenalan Vue.js
+  * Cara instalasi Node.js
+  * Cara instalasi Vue.js dan vue-cli
+  * Cara inisialisasi workspace dengan vue-cli
+  * Mencoba menggunakan Vue.js dengan diskusi
 
 ## Full Talks
 
